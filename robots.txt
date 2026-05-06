@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://canuzlas.github.io/archive-9r2xd6/sitemap.xml
